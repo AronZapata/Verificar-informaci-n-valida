@@ -17,8 +17,7 @@
 Sigue estos pasos para ejecutar la aplicación en tu máquina local:
 
 1. **Clona el repositorio**
-   ```
-   - descargar el archivo de repositorio o clonarlo
+   - Descargar el archivo de repositorio o clonarlo
 2. **Instala las dependencias**
 
    ```
